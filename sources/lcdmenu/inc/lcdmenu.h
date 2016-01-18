@@ -59,7 +59,6 @@ struct menu_main {
 
 
 
-
 // Menu Drawing
 //------------------------------------------------------
 void Menu_Drawing(struct menu_main *pMenu_Main);
