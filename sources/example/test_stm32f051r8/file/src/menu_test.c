@@ -49,7 +49,7 @@ void Init_Menu(void)
 
     Menu_Main.AllTopConstant = FALSE;
     Menu_Main.AllBottomConstant = FALSE;
-    Menu_Main.length = 4;
+    Menu_Main.length = NUM_STRING;
 
     Menu_Main.StartCursor = 0;
     Menu_Main.EndCursor = 3;

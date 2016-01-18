@@ -5,9 +5,6 @@
  
 // Количество строк доступных на вывод
 #define NUM_STRING  4
-// Глубина вложений
-#define NUM_DOWN_AND_DOWN 4
-
 #define MENU_CLEAR_LINE(a) pClear_Line = a
 
 extern void (*pClear_Line)(uint8_t line);
